@@ -1,0 +1,49 @@
+{
+  "Priority": [0, 5, 3, 6, 8, 9, 1, 2, 4, 7],
+  "VeryImportant": [0],
+  "Important": [5, 3, 6],
+  "Ordinary": [8, 9, 1, 2, 4, 7],
+  "Summary": "The email snippets cover a range of topics, from security alerts and financial notifications to promotional content and updates from online platforms. There's a crucial security alert regarding unauthorized access to a Google account, urging immediate action. Several snippets relate to online contests and events, specifically coding competitions organized by AtCoder. There are also reminders about Patreon subscriptions and new posts from creators on the platform, including updates from Kenneth Acoustic. Financial notifications include information about securities balances from NSE and consolidated account statements from CDSL. Lastly, there's a notice from Airtel regarding their spam detection tool. Most of the emails seems automated notifications which includes event updates, new content alerts, and periodic financial reports. However, user intervention is required for security alerts and Patreon subscriptions.",
+  "Emails": [
+    {
+      "id": 0,
+      "snippet": "Gmail-Handler was granted access to your Google Account kartikaygautam24617@gmail.com If you did not grant access, you should check this activity and secure your account. Check activity You can also"
+    },
+    {
+      "id": 1,
+      "snippet": "We will hold BrainPad Programming Contest 2025 （AtCoder Heuristic Contest 046）. Contest URL: https://atcoder.jp/contests/ahc046 Start Time: http://www.timeanddate.com/worldclock/fixedtime.html?iso="
+    },
+    {
+      "id": 2,
+      "snippet": "We will hold AtCoder Beginner Contest 403. - Contest URL: https://atcoder.jp/contests/abc403 - Start Time: http://www.timeanddate.com/worldclock/fixedtime.html?iso=20250427T2100&amp;p1=248 - Duration:"
+    },
+    {
+      "id": 3,
+      "snippet": "You&#39;re almost a paid member Finish signing up for their Patreon and get instant access to exclusive posts and more. Cancel anytime. not pro guitar Normal #2 $6.50 / month Finish signing up Patreon"
+    },
+    {
+      "id": 4,
+      "snippet": "Kenneth Acoustic New post: &quot;10th Song&#39;s lucky draw (24 Apr 25)&quot; Kenneth Acoustic just shared a new post for paid members. To view the post and get access to exclusive benefits, upgrade"
+    },
+    {
+      "id": 5,
+      "snippet": "Dear Investor, With reference to NSE circulars NSE/INSP/46704 dated December 17, 2020, and NSE/INSP/55039 dated December 28, 2022, Trading members are required to upload clients&#39; securities balance"
+    },
+    {
+      "id": 6,
+      "snippet": "Kartikay, your profile photo was changed ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏"
+    },
+    {
+      "id": 7,
+      "snippet": "Kenneth Acoustic New post: &quot;(Early Access) Good Luck, Babe! - Chappell Roan | Fingerstyle Guitar | TAB + Chords + Lyrics&quot; Kenneth Acoustic just shared a new post for paid members. To view the"
+    },
+    {
+      "id": 8,
+      "snippet": "Dear KARTIKAY GAUTAM Hello from CDSL Buddy! Your Consolidated Account Statement (CAS) for the investments in Mutual Fund units (held with MF-RTAs) and Securities held in demat form with Depositories"
+    },
+    {
+      "id": 9,
+      "snippet": "Dear Customer, I wrote to you some time ago, about how we at Airtel have deployed a powerful Al tool on our network, to analyse call patterns and identify spammers. Any call or SMS that Airtel finds"
+    }
+  ]
+}
